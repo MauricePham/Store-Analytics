@@ -1,5 +1,5 @@
 # Store-Analytics
-Company A sells fashion. They have stores in each country’s capital: UK (London); FR (Paris); IT  (Milan); GER (Berlin). Their customers either buy online or in the store itself. 
+Stats with OLS Summary & K-mean Segmentation & Define clusters
 
 # Report Summary 
 **1. The website traffic had slightly impact on revenue **
