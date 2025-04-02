@@ -12,7 +12,7 @@ Company A sells fashion. They have stores in each country’s capital: UK (Londo
   
      audE-info0.884915261087885 (8428)
  
-**Top 3 products got us pageviews: **
+**Top 3 products got us pageviews:**
 
      sonEies-x0.139039192479287 (232177)
   
